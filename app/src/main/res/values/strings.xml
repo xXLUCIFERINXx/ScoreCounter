@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ScoreCounter</string>
+    <string name="team_A">Team A</string>
+    <string name="team_B">Team B</string>
+    <string name="score_A">0</string>
+    <string name="score_B">0</string>
+    <string name="but11">+1 run</string>
+    <string name="but12">+2 runs</string>
+    <string name="but13">+3 runs</string>
+    <string name="but14">+4 runs</string>
+    <string name="but16">+6 runs</string>
+    <string name="but21">+1 run</string>
+    <string name="but22">+2 runs</string>
+    <string name="but23">+3 runs</string>
+    <string name="but24">+4 runs</string>
+    <string name="but26">+6 runs</string>
+    <string name="reset">RESET</string>
+</resources>
